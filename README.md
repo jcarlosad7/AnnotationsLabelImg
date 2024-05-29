@@ -1,6 +1,7 @@
 # AnnotationsLabelImg
 ## Descargamos python 3
 [https://www.python.org/downloads/](Python 3)
+
 ## Install lxml
 ```bash
     pip install lxml
@@ -18,4 +19,12 @@
 ```bash
     pyrcc5 -o libs/resources.py resources.qrc
 ```
+## Descargamos labelImg
+[[https://www.python.org/downloads/](https://github.com/heartexlabs/labelImg)](LabelImg)
+
+## Ejecutamos labelImg
+```bash
+    python labelImg.py
+```
+
 
